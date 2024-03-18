@@ -164,7 +164,7 @@ img {
     color:rgb(110, 114, 119);
 }
 .contenido-iconos div h6{
-    color:#fff;
+    color:#000000;
     font-size: 20px;
     font-weight: 100;
     margin:10px 0px;
@@ -182,7 +182,7 @@ img {
 #contacto{
     background: #f9a11d;
     padding: 50px 0px;
-    color: #fff;
+    color: #000000;
 }
 #contacto h4{
     text-align: center;
