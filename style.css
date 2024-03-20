@@ -232,7 +232,7 @@ form textarea::placeholder{
 .boton-formulario .boton-saber-mas{
     display: block;
     border: 1px solid #fff;
-    color: #fff;
+    color: #0F0F0F;
     text-align: center;
     transition: 0,4s;
 }
