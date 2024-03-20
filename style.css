@@ -222,7 +222,7 @@ form textarea:focus{
 
 form input::placeholder,
 form textarea::placeholder{
-    color: #fff;
+    color: #0F0F0F;
 }
 .mensaje{
     display: flex;
